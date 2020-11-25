@@ -40,6 +40,7 @@ public class Gamepanel extends JPanel implements KeyListener{
     sh = new SnakeHead();
 
 	}
+	//hhhhhhh
 	public void paint(Graphics g){
 		if(sh.headx>9||sh.headx<=-1||sh.heady>=9||sh.heady<=-1){finish=true;}
 		m1(map);//¶¨Òå¿Õ°×µØÍ¼
